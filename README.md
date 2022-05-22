@@ -20,7 +20,6 @@
  - Kotlin
 
 # Accomplishment
- - Learned the new skill of Android Jetpack Composed.
  - Implemented MVVM Clean Archtecture with Composed Resuable Functions.
  - Implemented Pixabay API for searching and parsing the API data.
  - Needs Further improvements.
